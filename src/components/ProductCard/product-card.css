@@ -1,0 +1,49 @@
+.card {
+  border: 1px solid #a7a7a7;
+  border-radius: 10px;
+  border-bottom: 15px solid #750b0b;
+  margin: 10px;
+  text-align: center;
+  background-color: white;
+}
+.card-img {
+  height: 190px;
+
+  width: auto;
+  padding: 10px;
+}
+.card-title {
+  margin-bottom: 4px;
+  font-weight: 600;
+}
+.card-price {
+  margin-bottom: 26px;
+}
+.total-price {
+  font-size: 19px;
+  font-weight: 600;
+  color: #750b0b;
+}
+.company-details {
+  font-weight: 600;
+  margin-bottom: 24px;
+}
+.company-name {
+  font-size: 15px;
+  display: block;
+}
+.company-location {
+  font-size: 13px;
+  color: #767676;
+}
+.action {
+  border-top: 1px solid #a3a3a3;
+}
+.action button {
+  border: none;
+  background-color: white;
+  padding: 12px 0;
+  font-size: 19px;
+  font-weight: 600;
+  color: #0a8981;
+}

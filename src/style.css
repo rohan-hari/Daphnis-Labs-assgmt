@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  background-color: #f5f5f5;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.top-container {
+  margin: 10px 30px;
+}
+/* Page Navigation Text -------------------------------- */
+.nav-text-link {
+  background: none;
+  color: #888787;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  font-size: 14px;
+  outline: inherit;
+}
+.nav-text-link:hover {
+  color: black;
+}
+.nav-text-link.active {
+  color: black;
+}
+
+/* Product Card Container -------------------------- */
+
+.product-card-container {
+  margin-left: 270px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: start;
+}

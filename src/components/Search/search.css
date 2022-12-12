@@ -1,0 +1,77 @@
+.search-bar {
+  padding: 10px 0px;
+}
+form.search-form input[type='text'] {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid grey;
+  float: left;
+  width: 40%;
+  max-width: 470px;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+form.search-form button {
+  width: 100px;
+  padding: 10px;
+  background: #00a69c;
+  color: white;
+  font-size: 17px;
+  border: 1px solid #00a69c;
+  border-left: none;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  cursor: pointer;
+}
+
+form.search-form button:hover {
+  background: #028d83;
+}
+
+/* Search title --- */
+
+.search-title-container {
+  margin: 5px 0px;
+  display: block;
+}
+span.title {
+  font-size: 22px;
+  font-weight: 600;
+  margin-right: 4px;
+}
+span.count {
+  font-size: 15px;
+  margin-right: 2px;
+}
+.chip {
+  display: inline-block;
+  margin-left: 10px;
+  padding: 4px 10px;
+  font-size: 14px;
+  border-radius: 5px;
+  color: white;
+  background-color: #00a69c;
+}
+.closebtn {
+  padding-left: 8px;
+  color: rgb(238, 238, 238);
+  font-weight: bold;
+  float: right;
+  font-size: 14px;
+  cursor: pointer;
+}
+.remove {
+  display: inline-block;
+  margin-left: 3px;
+}
+.remove button {
+  color: #dc0404;
+  background: none;
+  border: none;
+  outline: inherit;
+  cursor: pointer;
+}
+.closebtn:hover {
+  color: rgb(71, 71, 71);
+}
