@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Daphnis-Labs-assgmt/static/css/main.daa9abc7.css",
+    "main.js": "/Daphnis-Labs-assgmt/static/js/main.8ff7d35a.js",
+    "index.html": "/Daphnis-Labs-assgmt/index.html",
+    "main.daa9abc7.css.map": "/Daphnis-Labs-assgmt/static/css/main.daa9abc7.css.map",
+    "main.8ff7d35a.js.map": "/Daphnis-Labs-assgmt/static/js/main.8ff7d35a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.daa9abc7.css",
+    "static/js/main.8ff7d35a.js"
+  ]
+}
