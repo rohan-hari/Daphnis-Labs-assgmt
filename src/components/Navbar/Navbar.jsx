@@ -6,7 +6,7 @@ export default function Navbar() {
     <div className="topnav">
       <div className="topnav-logo">
         <a href="./">
-          <img className="img-logo" />
+          <img className="img-logo" alt="" />
           Medical Darpan
         </a>
       </div>

@@ -4,7 +4,7 @@ import './product-card.css';
 export default function ProductCard() {
   return (
     <div className="card">
-      <img class="card-img" src="/img-prod.png" />
+      <img class="card-img" src="/img-prod.png" alt="" />
 
       <div className="card-title">Favipiravir 400mg (Fabiflu) tablets</div>
       <div className="card-price">
