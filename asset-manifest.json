@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/Daphnis-Labs-assgmt/static/css/main.daa9abc7.css",
-    "main.js": "/Daphnis-Labs-assgmt/static/js/main.8ff7d35a.js",
+    "main.js": "/Daphnis-Labs-assgmt/static/js/main.109c7253.js",
+    "static/media/prodImg.png": "/Daphnis-Labs-assgmt/static/media/prodImg.82ff93e2c19202ebc250.png",
     "index.html": "/Daphnis-Labs-assgmt/index.html",
     "main.daa9abc7.css.map": "/Daphnis-Labs-assgmt/static/css/main.daa9abc7.css.map",
-    "main.8ff7d35a.js.map": "/Daphnis-Labs-assgmt/static/js/main.8ff7d35a.js.map"
+    "main.109c7253.js.map": "/Daphnis-Labs-assgmt/static/js/main.109c7253.js.map"
   },
   "entrypoints": [
     "static/css/main.daa9abc7.css",
-    "static/js/main.8ff7d35a.js"
+    "static/js/main.109c7253.js"
   ]
 }
